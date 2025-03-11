@@ -1,4 +1,4 @@
-# 🚀 HackATOM 01 - Migração WebDex para Solana
+# 🚀 HackATOM 01 - Migração WEbdEX para Solana
 
 Bem-vindo ao **HackATOM 01**! 🎉 Este hackathon foi criado para impulsionar a inovação no ecossistema blockchain, desafiando os participantes a **migrar os contratos inteligentes do WEbdEX da Polygon para a blockchain Solana**. 
 
