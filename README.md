@@ -45,10 +45,30 @@ Serão distribuídos 15 mil USD em tokens WEbdEX para a melhor solução e para 
 ## 🤝 **Regras e Conduta**
 Todos os participantes devem seguir as diretrizes de ética e conduta estabelecidas para o hackathon. **Plágio, uso de código protegido sem permissão ou comportamento antiético resultarão em desqualificação.** Usem o bom senso!
 
-## 📅 **Cronograma**
-- **🛠 Semana 1:** Planejamento e entendimento dos contratos.
-- **💻 Semanas 2-4:** Desenvolvimento da migração para Solana.
-- **🚀 Semana 5:** Refinamento, testes e entrega final.
+## 📆 **Cronograma Oficial**
+
+### **Fase 1 - Planejamento de Projeto e Formação de Equipes**
+- 🏁 **17/03/2025** → **Início do HackATOM**
+- 📅 **17/03 - 20/03** → Criação de Roadmap Agile no Bitrix24
+- 📝 **21/03 - 24/03** → Apresentação dos Planos
+- 🏆 **25/03 - 26/03** → Seleção dos 5 melhores planos
+- 📢 **27/03/2025** → Divulgação das Equipes Selecionadas
+
+### **Fase 2 - Desenvolvimento**
+- 🛠 **27/03 - 28/03** → Configuração e Apresentação do Ambiente de Desenvolvimento
+- 🔧 **31/03 - 14/04** → Desenvolvimento dos Contratos Inteligentes
+- 🖥 **31/03 - 14/04** → Desenvolvimento do Frontend
+- ⚙️ **31/03/2025** → Desenvolvimento do Backend
+- 🔄 **15/04/2025** → Integração de Componentes
+- ✅ **15/04/2025** → Conclusão, Revisões e Feedback
+
+### **Fase 3 - Entrega e Avaliação**
+- 🛠 **16/04 - 22/04** → Refinamento Técnico
+- 🛠 **23/04 - 24/04** → Testes Finais e Integração
+- 🎤 **23/04 - 28/04** → Preparação do Pitch
+- 🎥 **29/04/2025** → Apresentação Final
+- 🏅 **30/04 - 02/05** → Avaliação pelos Jurados
+- 🏆 **05/05/2025** → Divulgação dos Vencedores
 
 ## 📞 **Dúvidas e Suporte**
 Entre em contato pelo **Bitrix** ou através de nossa comunidade no *Whatsapp*.
