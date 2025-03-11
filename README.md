@@ -9,10 +9,10 @@ Nosso desafio é desenvolver uma solução end-to-end funcional, aproveitando a 
 O **WEbdEX** é um sistema descentralizado de negociação automatizada, onde **contratos inteligentes gerenciam liquidez, estratégias de trading e operações dos usuários**. A migração envolve adaptar os seguintes módulos principais:
 
 - 📌 **[WEbdEXManager](https://polygonscan.com/address/0x9b4314878f58c3ca53ec0087acc8c9a30df773e0)** → Gerencia usuários, saldos e chamadas para outros contratos.
-- 📌 **WEbdEXFactory** → Cria novos contratos e componentes do sistema.
-- 📌 **WEbdEXPayments** → Lida com transações financeiras, taxas e fluxo de ativos.
-- 📌 **WEbdEXStrategies** → Gerencia e armazena estratégias de negociação.
-- 📌 **WEbdEXSubAccounts** → Implementa subcontas para melhor organização dos usuários.
+- 📌 **[WEbdEXFactory](https://polygonscan.com/address/0x85b2e6d7b514d565b298b984a1bdf7f9143dab0c)** → Cria novos contratos e componentes do sistema.
+- 📌 **[WEbdEXPayments](https://polygonscan.com/address/0xa0e97ee633854d1f09abe52281b1d2ef146b9889)** → Lida com transações financeiras, taxas e fluxo de ativos.
+- 📌 **[WEbdEXStrategies](https://polygonscan.com/address/0xe330c3279becc8ce7511a7c261965b5c601961ad)** → Gerencia e armazena estratégias de negociação.
+- 📌 **[WEbdEXSubAccounts](https://polygonscan.com/address/0x7c5241688ecd253ca3d13172620be22902a4414c)** → Implementa subcontas para melhor organização dos usuários.
 
 ## 🏗 **O Desafio**
 Você deve converter e adaptar os contratos para **Rust** utilizando **Anchor Framework**, garantindo compatibilidade com o ambiente de execução da Solana.
