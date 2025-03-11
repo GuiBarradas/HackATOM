@@ -8,7 +8,7 @@ Nosso desafio é desenvolver uma solução end-to-end funcional, aproveitando a 
 ## 🔥 **Sobre o WEbdEX**
 O **WEbdEX** é um sistema descentralizado de negociação automatizada, onde **contratos inteligentes gerenciam liquidez, estratégias de trading e operações dos usuários**. A migração envolve adaptar os seguintes módulos principais:
 
-- 📌 **WEbdEXManager** → Gerencia usuários, saldos e chamadas para outros contratos.
+- 📌 **[WEbdEXManager](https://polygonscan.com/address/0x9b4314878f58c3ca53ec0087acc8c9a30df773e0)** → Gerencia usuários, saldos e chamadas para outros contratos.
 - 📌 **WEbdEXFactory** → Cria novos contratos e componentes do sistema.
 - 📌 **WEbdEXPayments** → Lida com transações financeiras, taxas e fluxo de ativos.
 - 📌 **WEbdEXStrategies** → Gerencia e armazena estratégias de negociação.
