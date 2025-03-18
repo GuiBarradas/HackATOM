@@ -14,6 +14,9 @@ O **WEbdEX** é um sistema descentralizado de negociação automatizada, onde **
 - 📌 **[WEbdEXStrategies](https://polygonscan.com/address/0xe330c3279becc8ce7511a7c261965b5c601961ad)** → Gerencia e armazena estratégias de negociação.
 - 📌 **[WEbdEXSubAccounts](https://polygonscan.com/address/0x7c5241688ecd253ca3d13172620be22902a4414c)** → Implementa subcontas para melhor organização dos usuários.
 
+## 🎨 **Recursos para o Front-End**
+Temos disponíveis diversos materiais, como assets e nosso brand material, para auxiliar-los durante o desenvolvimento visual.
+- 📌 **[Brand Material](https://webdex.fyi/brand-materials/)**
 ## 🏗 **O Desafio**
 Você deve converter e adaptar os contratos para **Rust** utilizando **Anchor Framework**, garantindo compatibilidade com o ambiente de execução da Solana.
 
