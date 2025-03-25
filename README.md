@@ -13,6 +13,7 @@ O **WEbdEX** é um sistema descentralizado de negociação automatizada, onde **
 - 📌 **[WEbdEXPayments](https://polygonscan.com/address/0xa0e97ee633854d1f09abe52281b1d2ef146b9889)** → Lida com transações financeiras, taxas e fluxo de ativos.
 - 📌 **[WEbdEXStrategies](https://polygonscan.com/address/0xe330c3279becc8ce7511a7c261965b5c601961ad)** → Gerencia e armazena estratégias de negociação.
 - 📌 **[WEbdEXSubAccounts](https://polygonscan.com/address/0x7c5241688ecd253ca3d13172620be22902a4414c)** → Implementa subcontas para melhor organização dos usuários.
+- 📌 **[WEbdEXNetwork](https://polygonscan.com/address/0x0c6b1eae338178dc941217617e0797e121007c6a)** → Lida com networks e indicações.
 
 ## 🎨 **Recursos para o Front-End**
 Temos disponíveis diversos materiais, como assets e nosso brand material, para auxiliar-los durante o desenvolvimento visual.
